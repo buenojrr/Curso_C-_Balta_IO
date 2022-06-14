@@ -1,0 +1,15 @@
+C:\Users\alcides.junior\Documents\CursoSharp\Uteis\interpolacaodeStrings\bin\Debug\net6.0\interpolacaodeStrings.exe
+C:\Users\alcides.junior\Documents\CursoSharp\Uteis\interpolacaodeStrings\bin\Debug\net6.0\interpolacaodeStrings.deps.json
+C:\Users\alcides.junior\Documents\CursoSharp\Uteis\interpolacaodeStrings\bin\Debug\net6.0\interpolacaodeStrings.runtimeconfig.json
+C:\Users\alcides.junior\Documents\CursoSharp\Uteis\interpolacaodeStrings\bin\Debug\net6.0\interpolacaodeStrings.dll
+C:\Users\alcides.junior\Documents\CursoSharp\Uteis\interpolacaodeStrings\bin\Debug\net6.0\interpolacaodeStrings.pdb
+C:\Users\alcides.junior\Documents\CursoSharp\Uteis\interpolacaodeStrings\obj\Debug\net6.0\interpolacaodeStrings.csproj.AssemblyReference.cache
+C:\Users\alcides.junior\Documents\CursoSharp\Uteis\interpolacaodeStrings\obj\Debug\net6.0\interpolacaodeStrings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alcides.junior\Documents\CursoSharp\Uteis\interpolacaodeStrings\obj\Debug\net6.0\interpolacaodeStrings.AssemblyInfoInputs.cache
+C:\Users\alcides.junior\Documents\CursoSharp\Uteis\interpolacaodeStrings\obj\Debug\net6.0\interpolacaodeStrings.AssemblyInfo.cs
+C:\Users\alcides.junior\Documents\CursoSharp\Uteis\interpolacaodeStrings\obj\Debug\net6.0\interpolacaodeStrings.csproj.CoreCompileInputs.cache
+C:\Users\alcides.junior\Documents\CursoSharp\Uteis\interpolacaodeStrings\obj\Debug\net6.0\interpolacaodeStrings.dll
+C:\Users\alcides.junior\Documents\CursoSharp\Uteis\interpolacaodeStrings\obj\Debug\net6.0\refint\interpolacaodeStrings.dll
+C:\Users\alcides.junior\Documents\CursoSharp\Uteis\interpolacaodeStrings\obj\Debug\net6.0\interpolacaodeStrings.pdb
+C:\Users\alcides.junior\Documents\CursoSharp\Uteis\interpolacaodeStrings\obj\Debug\net6.0\interpolacaodeStrings.genruntimeconfig.cache
+C:\Users\alcides.junior\Documents\CursoSharp\Uteis\interpolacaodeStrings\obj\Debug\net6.0\ref\interpolacaodeStrings.dll

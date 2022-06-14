@@ -1,0 +1,15 @@
+C:\Users\alcides.junior\Documents\CursoSharp\Editor HTML\Editor-Html\bin\Debug\net6.0\Editor-Html.exe
+C:\Users\alcides.junior\Documents\CursoSharp\Editor HTML\Editor-Html\bin\Debug\net6.0\Editor-Html.deps.json
+C:\Users\alcides.junior\Documents\CursoSharp\Editor HTML\Editor-Html\bin\Debug\net6.0\Editor-Html.runtimeconfig.json
+C:\Users\alcides.junior\Documents\CursoSharp\Editor HTML\Editor-Html\bin\Debug\net6.0\Editor-Html.dll
+C:\Users\alcides.junior\Documents\CursoSharp\Editor HTML\Editor-Html\bin\Debug\net6.0\Editor-Html.pdb
+C:\Users\alcides.junior\Documents\CursoSharp\Editor HTML\Editor-Html\obj\Debug\net6.0\Editor-Html.csproj.AssemblyReference.cache
+C:\Users\alcides.junior\Documents\CursoSharp\Editor HTML\Editor-Html\obj\Debug\net6.0\Editor-Html.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alcides.junior\Documents\CursoSharp\Editor HTML\Editor-Html\obj\Debug\net6.0\Editor-Html.AssemblyInfoInputs.cache
+C:\Users\alcides.junior\Documents\CursoSharp\Editor HTML\Editor-Html\obj\Debug\net6.0\Editor-Html.AssemblyInfo.cs
+C:\Users\alcides.junior\Documents\CursoSharp\Editor HTML\Editor-Html\obj\Debug\net6.0\Editor-Html.csproj.CoreCompileInputs.cache
+C:\Users\alcides.junior\Documents\CursoSharp\Editor HTML\Editor-Html\obj\Debug\net6.0\Editor-Html.dll
+C:\Users\alcides.junior\Documents\CursoSharp\Editor HTML\Editor-Html\obj\Debug\net6.0\refint\Editor-Html.dll
+C:\Users\alcides.junior\Documents\CursoSharp\Editor HTML\Editor-Html\obj\Debug\net6.0\Editor-Html.pdb
+C:\Users\alcides.junior\Documents\CursoSharp\Editor HTML\Editor-Html\obj\Debug\net6.0\Editor-Html.genruntimeconfig.cache
+C:\Users\alcides.junior\Documents\CursoSharp\Editor HTML\Editor-Html\obj\Debug\net6.0\ref\Editor-Html.dll
